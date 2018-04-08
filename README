@@ -1,0 +1,18 @@
+linux commands:
+	cd
+	ls
+	vi
+	pwd
+
+build comands
+	make build
+	make clean
+	make test
+
+svn commands:
+
+	svn co
+	svn update
+	svn st
+	svn commit -m"comment"
+	svn add
