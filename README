@@ -15,4 +15,5 @@ svn commands:
 	svn update
 	svn st
 	svn commit -m"comment"
-	svn add
+	svn add			; add new file into svn
+
